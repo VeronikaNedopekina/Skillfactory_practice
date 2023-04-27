@@ -1,6 +1,6 @@
 Автоматизированное тестирование сайта: https://b2c.passport.rt.ru с использованием PyTest и Selenium. 
 
-Ссылка на обновленные требования https://drive.google.com/file/d/1Lsj8RAQNlaui6gJKhHy3F4M1RhaWAaHz/view?usp=share_link
+Ссылка на обновленные требования https://docs.google.com/document/d/1HJDsO8VI45BTVcRKL-gQjSP8mGLUKKZY/edit?usp=share_link&ouid=103194071242773299841&rtpof=true&sd=true
 
 В рамках реализации проекта тестирования формы авторизации выполнено:
 Smoke-тестирование, ручное тестирование, автотестирование с помощью Python, Selenium, позитивное/негативное/деструктивное тестирование.
